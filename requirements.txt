@@ -1,0 +1,7 @@
+torchvision
+flask
+pandas
+numpy
+requests
+pybase64
+pillow
